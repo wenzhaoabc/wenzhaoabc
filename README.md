@@ -1,4 +1,4 @@
-<h1>Hi, I'm Wen Zhao 👋</h1>
+<h1>Hi, there 👋</h1>
 
 ## 🧑‍💻 About Me
 <img align="right" src="./profile/stats.svg" width="400">
