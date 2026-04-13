@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">wenzhaoabc's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 163, Total Commits  (last year) : 172, Total PRs: 164, Total Issues: 41, Contributed to (last year): 12</desc>
+        <desc id="descId">Total Stars Earned: 163, Total Commits  (last year) : 168, Total PRs: 164, Total Issues: 41, Contributed to (last year): 12</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 78.57932539125335;
+        stroke-dashoffset: 78.8692839161049;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >172</text>
+      >168</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
