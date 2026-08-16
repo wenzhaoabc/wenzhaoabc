@@ -15,7 +15,7 @@ Currently pursuing my Master's degree while bridging the gap between theory and 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![PyTorch](https://img.shields.io/badge/PyTorch-E34F26?style=for-the-badge&logo=pytorch&logoColor=white)]()
 [![Transformers](https://img.shields.io/badge/Transformers-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)]()
-[![TRL](https://img.shields.io/badge/TRL-RLHF-blue?style=for-the-badge)]()
+[![VeRL](https://img.shields.io/badge/VeRL-RLHF-blue?style=for-the-badge)]()
 <br/>
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
 [![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]()
